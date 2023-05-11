@@ -3,6 +3,15 @@ body{
     color:black;
 
 }
+a{ 
+    color:blue;
+}
+
+a.menulogo{
+    color:black;
+    text-decoration: none;
+    display: inline;
+}
 
 
 .menu-logo{
