@@ -1,0 +1,27 @@
+sujet: Rat-taupe nu
+collabs: Colyne Thomas
+
+repository: from daikenzo
+nom dossier: pisExoGit-collab_Tauperat
+url :https://github.com/Piscine-Pro-Family/pisExoGit-collab_Tauperat.git
+
+
+
+
+git remote add origin https://github.com/Piscine-Pro-Family/pisExoGit-collab_Tauperat.git
+git branch -M main
+git push -u origin main
+//
+echo "# pisExoGit-collab_Tauperat" >> README.md
+git init
+git commit -m "init git"
+git branch -M main
+git remote add origin https://github.com/Piscine-Pro-Family/pisExoGit-collab_Tauperat.git
+git push -u origin main
+
+
+
+
+
+oroganisation url : https://github.com/Piscine-Pro-Family
+mail: charles.bru@lapiscine.pro
