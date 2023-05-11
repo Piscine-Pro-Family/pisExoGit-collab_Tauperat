@@ -1,0 +1,39 @@
+body{
+    background-color: beige;
+    color:black;
+
+}
+
+
+.menu-logo{
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    margin: 5% 0.5% 0% 0.5%;
+    padding: 1% 0.5% 0% 0%;
+    
+}
+#menuSiteBlock{
+    margin: auto;
+    padding: 2% 1% 2% 1%;
+    background-image: url("");
+    background-attachment: fixed;
+    background-size: auto;
+    text-decoration: overline;
+    text-align: center;
+}
+
+.header-div{
+    background-color: beige;
+    border-bottom: 5px black;
+}
+nav.header-div, nav.menu-main{
+    display: inline;
+    align-content: center;
+    text-align: center;
+    
+}
+#navMenu{
+    border-left: 50%;
+    border-right: 50%;
+}
